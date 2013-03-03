@@ -1,7 +1,6 @@
 # KeePassX Puppet Module for Boxen
 
 Install [KeePassX](http://www.keepassx.org), cross platform password manager.
-and folders on Mac OS X.
 
 ## Usage
 
