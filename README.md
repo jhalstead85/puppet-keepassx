@@ -1,5 +1,7 @@
 # KeePassX Puppet Module for Boxen
 
+[![Build Status](https://travis-ci.org/boxen/puppet-keepassx.png?branch=master)](https://travis-ci.org/boxen/puppet-keepassx)
+
 Install [KeePassX](http://www.keepassx.org), cross platform password manager.
 
 ## Usage
